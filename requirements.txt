@@ -1,0 +1,7 @@
+opencv-python
+torch
+torchvision
+scikit-learn
+pillow
+numpy
+yolov5  # If using YOLOv5 for detection
